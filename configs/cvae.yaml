@@ -5,7 +5,7 @@ model_params:
   latent_dim: 128
 
 data_params:
-  data_path: "Data/"
+  data_path: C:\backup\New Volume\COURSES\BTP\celeba
   train_batch_size: 64
   val_batch_size:  64
   patch_size: 64
